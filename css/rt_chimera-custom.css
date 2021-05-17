@@ -1,0 +1,15 @@
+.grey_line {
+  background-color: grey;
+  margin: 0;
+  padding: 25px;
+}
+
+body #rt-slideshow .layout-fullslideshow .sprocket-features-content {background-color: transparent;}
+
+div.fp-roksprocket-slideshow .layout-slideshow2 .sprocket-features-content {
+background: none;
+}
+
+div.sprocket-mosaic .sprocket-readmore {
+    display: none;
+}
